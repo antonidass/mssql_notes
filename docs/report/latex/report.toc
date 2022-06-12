@@ -1,0 +1,18 @@
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{\numberline {1}Основы построения запросов}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Основы языка T-SQL}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Понимание логической обработки запросов}{6}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Начало работы с инструкцией SELECT}{12}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Использование FROM и SELECT}{12}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Работа с типами данных и встроенными функциями}{15}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Выбор типов данных для ключей}{16}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Выражение CASE и связанные с ним функции}{18}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Функция COALESCE}{18}{subsection.2.2.3}%
+\contentsline {chapter}{\numberline {3}Фильтрация и сортировка данных }{26}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Фильтрация данных с помощью предикатов }{26}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Предикат LIKE}{27}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Фильтрация данных даты и времени}{28}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Сортировка данных}{32}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Фильтрация данных с помощью TOP и OFFSET...FETCH}{36}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Фильтрация данных с помощью предложения TOP}{36}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Фильтрация данных с помощью OFFSET...FETCH}{37}{subsection.3.3.2}%
