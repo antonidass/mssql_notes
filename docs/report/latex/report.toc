@@ -1,18 +1,72 @@
 \babel@toc {russian}{}\relax 
-\contentsline {chapter}{\numberline {1}Основы построения запросов}{3}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Основы языка T-SQL}{3}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Понимание логической обработки запросов}{6}{section.1.2}%
-\contentsline {chapter}{\numberline {2}Начало работы с инструкцией SELECT}{12}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Использование FROM и SELECT}{12}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Работа с типами данных и встроенными функциями}{15}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Выбор типов данных для ключей}{16}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Выражение CASE и связанные с ним функции}{18}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Функция COALESCE}{18}{subsection.2.2.3}%
-\contentsline {chapter}{\numberline {3}Фильтрация и сортировка данных }{26}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Фильтрация данных с помощью предикатов }{26}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Предикат LIKE}{27}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Фильтрация данных даты и времени}{28}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3.2}Сортировка данных}{32}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Фильтрация данных с помощью TOP и OFFSET...FETCH}{36}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Фильтрация данных с помощью предложения TOP}{36}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Фильтрация данных с помощью OFFSET...FETCH}{37}{subsection.3.3.2}%
+\contentsline {chapter}{\numberline {1}Основы построения запросов}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Основы языка T-SQL}{5}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Понимание логической обработки запросов}{8}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Начало работы с инструкцией SELECT}{14}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Использование FROM и SELECT}{14}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Работа с типами данных и встроенными функциями}{17}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Выбор типов данных для ключей}{18}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Выражение CASE и связанные с ним функции}{20}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Функция COALESCE}{20}{subsection.2.2.3}%
+\contentsline {chapter}{\numberline {3}Фильтрация и сортировка данных }{28}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Фильтрация данных с помощью предикатов }{28}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Предикат LIKE}{29}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Фильтрация данных даты и времени}{30}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Сортировка данных}{34}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Фильтрация данных с помощью TOP и OFFSET...FETCH}{38}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Фильтрация данных с помощью предложения TOP}{38}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Фильтрация данных с помощью OFFSET...FETCH}{39}{subsection.3.3.2}%
+\contentsline {chapter}{\numberline {4}Комбинирование наборов данных}{49}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Использование соединений}{49}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Перекрестные соединения CROSS JOIN}{49}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Внутренние соединения INNER JOIN}{50}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Внешние соединения OUTER JOIN}{51}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Использование подзапросов, табличных выражений и оператора APPLY}{56}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Независимые подзапросы}{56}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Коррелированные (связанные) подзапросы}{56}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Табличные выражения}{57}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Производные таблицы}{58}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Обобщенные табличные выражения}{59}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Представления и встроенные табличные функции}{61}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Оператор APPLY}{63}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}CROSS APPLY}{63}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}OUTER APPLY}{64}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}Использование операторов работы с наборами}{70}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Операторы UNION и UNION ALL}{71}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Оператор INTERSECT}{73}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Оператор EXCEPT}{73}{subsection.4.5.3}%
+\contentsline {chapter}{\numberline {5}Группирование и оконные функции}{79}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Написание запросов для группировки данных}{79}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Работа с несколькими наборами группирования}{79}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}GROUPING SETS}{80}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}CUBE}{81}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}ROLLUP}{81}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}GROUPING, GROUPING\_ID}{83}{subsection.5.2.4}%
+\contentsline {section}{\numberline {5.3}Сведение и отмена сведения данных}{88}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Сведение данных}{88}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Отмена сведения данных}{89}{subsection.5.3.2}%
+\contentsline {section}{\numberline {5.4}Использование оконных функций}{93}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Статистические оконные функции}{93}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Ранжирующие оконные функции}{94}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Оконные функции смещения}{96}{subsection.5.4.3}%
+\contentsline {chapter}{\numberline {6}Запросы с полнотекстовым поиском данных}{103}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Создание полнотекстовых каталогов и индексов}{103}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Компоненты полнотекстового поиска}{103}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}Использование предикатов CONTAINS и FREETEXT}{106}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Предикат CONTAINS}{106}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Предикат FREETEXT}{106}{subsection.6.2.2}%
+\contentsline {section}{\numberline {6.3}Использование табличных функций полнотекстового и семантического поиска}{107}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Статистические оконные функции}{107}{subsection.6.3.1}%
+\contentsline {chapter}{\numberline {7}Запрос и управление XML-данными}{108}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Возвращение результатов в виде XML с помощью предложения FOR XML}{108}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Режим FOR XML PATH}{109}{subsection.7.1.1}%
+\contentsline {section}{\numberline {7.2}Запрос XML-данных с помощью XQuery}{109}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Создание таблиц и обеспечение целостности данных}{111}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Создание и изменение таблиц}{111}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Создание таблицы}{111}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}Определение схемы базы данных}{111}{subsection.8.1.2}%
+\contentsline {subsection}{\numberline {8.1.3}Свойство идентификатора и порядковые номера}{114}{subsection.8.1.3}%
+\contentsline {subsection}{\numberline {8.1.4}Сжатие таблиц}{114}{subsection.8.1.4}%
+\contentsline {subsection}{\numberline {8.1.5}Изменение таблицы}{115}{subsection.8.1.5}%
+\contentsline {section}{\numberline {8.2}Обеспечение целостности данных}{118}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Использование ограничений}{118}{subsection.8.2.1}%

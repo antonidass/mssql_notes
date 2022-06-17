@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.1)  12 JUN 2022 15:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.1)  17 JUN 2022 22:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1281,6 +1281,152 @@ LaTeX Warning: Label `lst:funcReturn' multiply defined.
 
 LaTeX Warning: Label `lst:funcReturn' multiply defined.
 
+) (./chapter4.aux
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+) (./chapter5.aux
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+) (./chapter6.aux
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+) (./chapter7.aux
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+) (./chapter8.aux
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
+
+LaTeX Warning: Label `lst:funcReturn' multiply defined.
+
 ))
 \openout1 = `report.aux'.
 
@@ -1391,7 +1537,7 @@ LaTeX Info: Redefining \nameref on input line 5.
 \openout2 = `00-title.aux'.
 
  (./00-title.tex
-<img/book.png, id=76, 623.32875pt x 807.015pt>
+<img/book.png, id=293, 623.32875pt x 807.015pt>
 File: img/book.png Graphic file (type png)
 <use img/book.png>
 Package pdftex.def Info: img/book.png  used on input line 8.
@@ -1445,91 +1591,91 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/book.png>])
 \openout2 = `01-contents.aux'.
 
- (./01-contents.tex (./report.toc)
+ (./01-contents.tex (./report.toc [2
+
+
+
+
+
+] [3])
 \tf@toc=\write6
 \openout6 = `report.toc'.
 
-) [2
-
-
-
-
-
-]
+) [4]
 \openout2 = `chapter1.aux'.
 
  (./chapter1.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
-<img/tsql.png, id=115, 621.32124pt x 304.13625pt>
+<img/tsql.png, id=398, 621.32124pt x 304.13625pt>
 File: img/tsql.png Graphic file (type png)
 <use img/tsql.png>
 Package pdftex.def Info: img/tsql.png  used on input line 8.
 (pdftex.def)             Requested size: 386.95897pt x 189.41641pt.
-[3
+[5
 
 
 
 
  <./img/tsql.png>]
-<img/control1.png, id=123, 875.27pt x 240.9pt>
+<img/control1.png, id=406, 875.27pt x 240.9pt>
 File: img/control1.png Graphic file (type png)
 <use img/control1.png>
 Package pdftex.def Info: img/control1.png  used on input line 30.
 (pdftex.def)             Requested size: 386.95897pt x 106.50359pt.
-<img/control2.png, id=124, 869.2475pt x 307.1475pt>
+<img/control2.png, id=407, 869.2475pt x 307.1475pt>
 File: img/control2.png Graphic file (type png)
 <use img/control2.png>
 Package pdftex.def Info: img/control2.png  used on input line 44.
 (pdftex.def)             Requested size: 338.58632pt x 119.64175pt.
-<img/control3.png, id=125, 868.24374pt x 259.97125pt>
+<img/control3.png, id=408, 868.24374pt x 259.97125pt>
 File: img/control3.png Graphic file (type png)
 <use img/control3.png>
 Package pdftex.def Info: img/control3.png  used on input line 51.
 (pdftex.def)             Requested size: 338.58632pt x 101.38043pt.
- [4 <./img/control1.png> <./img/control2.png> <./img/control3.png>]
-<img/zakrep1.png, id=136, 952.55875pt x 936.49875pt>
+ [6 <./img/control1.png> <./img/control2.png> <./img/control3.png>]
+<img/zakrep1.png, id=419, 952.55875pt x 936.49875pt>
 File: img/zakrep1.png Graphic file (type png)
 <use img/zakrep1.png>
 Package pdftex.def Info: img/zakrep1.png  used on input line 70.
 (pdftex.def)             Requested size: 338.58632pt x 332.88094pt.
-<img/ans1.png, id=137, 776.9025pt x 993.7125pt>
+<img/ans1.png, id=420, 776.9025pt x 993.7125pt>
 File: img/ans1.png Graphic file (type png)
 <use img/ans1.png>
 Package pdftex.def Info: img/ans1.png  used on input line 79.
 (pdftex.def)             Requested size: 338.58632pt x 433.08023pt.
- [5 <./img/zakrep1.png>] [6 <./img/ans1.png>]
+ [7 <./img/zakrep1.png>] [8 <./img/ans1.png>]
 Overfull \hbox (1.38591pt too wide) in paragraph at lines 96--97
 []\T2A/cmr/m/n/14.4 Логическая по-сле-до-ва-тель-ность об-ра-бот-ки за-про-сов ше-сти ос-нов-ных пред-
  []
 
-<img/control4.png, id=152, 868.24374pt x 203.76125pt>
+<img/control4.png, id=436, 868.24374pt x 203.76125pt>
 File: img/control4.png Graphic file (type png)
 <use img/control4.png>
 Package pdftex.def Info: img/control4.png  used on input line 109.
 (pdftex.def)             Requested size: 435.32422pt x 102.1633pt.
-<img/control5.png, id=153, 871.255pt x 302.12875pt>
+<img/control5.png, id=437, 871.255pt x 302.12875pt>
 File: img/control5.png Graphic file (type png)
 <use img/control5.png>
 Package pdftex.def Info: img/control5.png  used on input line 116.
 (pdftex.def)             Requested size: 435.32422pt x 150.95796pt.
-[7 <./img/control4.png> <./img/control5.png>]
-<img/zakrep2.png, id=169, 955.57pt x 747.79375pt>
+[9 <./img/control4.png> <./img/control5.png>]
+<img/zakrep2.png, id=452, 955.57pt x 747.79375pt>
 File: img/zakrep2.png Graphic file (type png)
 <use img/zakrep2.png>
 Package pdftex.def Info: img/zakrep2.png  used on input line 132.
 (pdftex.def)             Requested size: 435.32422pt x 340.66887pt.
-<img/ans2.png, id=170, 749.80125pt x 1057.9525pt>
+<img/ans2.png, id=453, 749.80125pt x 1057.9525pt>
 File: img/ans2.png Graphic file (type png)
 <use img/ans2.png>
 Package pdftex.def Info: img/ans2.png  used on input line 141.
 (pdftex.def)             Requested size: 338.58632pt x 477.73695pt.
- [8 <./img/zakrep2.png>] [9 <./img/ans2.png>]
-<img/ex1.png, id=184, 965.6075pt x 873.2625pt>
+ [10 <./img/zakrep2.png>] [11 <./img/ans2.png>]
+<img/ex1.png, id=466, 965.6075pt x 873.2625pt>
 File: img/ex1.png Graphic file (type png)
 <use img/ex1.png>
 Package pdftex.def Info: img/ex1.png  used on input line 151.
 (pdftex.def)             Requested size: 435.32422pt x 393.68404pt.
-<img/eans1.png, id=185, 777.90625pt x 1172.38pt>
+<img/eans1.png, id=467, 777.90625pt x 1172.38pt>
 File: img/eans1.png Graphic file (type png)
 <use img/eans1.png>
 Package pdftex.def Info: img/eans1.png  used on input line 160.
@@ -1538,7 +1684,7 @@ Package pdftex.def Info: img/eans1.png  used on input line 160.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [10 <./img/ex1.png>] [11 <./img/eans1.png>]
+) [12 <./img/ex1.png>] [13 <./img/eans1.png>]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
@@ -1558,18 +1704,18 @@ File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 LaTeX Font Info:    Font shape `T2A/cmtt/bx/n' in size <10> not available
 (Font)              Font shape `T2A/cmtt/m/n' tried instead on input line 6.
-<img/control6.png, id=198, 870.25125pt x 285.065pt>
+<img/control6.png, id=481, 870.25125pt x 285.065pt>
 File: img/control6.png Graphic file (type png)
 <use img/control6.png>
 Package pdftex.def Info: img/control6.png  used on input line 33.
 (pdftex.def)             Requested size: 386.95897pt x 126.75565pt.
- [12
+ [14
 
 
 
 
  <./img/control6.png>]
-<img/zakrep3.png, id=215, 999.735pt x 1029.8475pt>
+<img/zakrep3.png, id=498, 999.735pt x 1029.8475pt>
 File: img/zakrep3.png Graphic file (type png)
 <use img/zakrep3.png>
 Package pdftex.def Info: img/zakrep3.png  used on input line 50.
@@ -1578,8 +1724,8 @@ Package pdftex.def Info: img/zakrep3.png  used on input line 50.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[13]
-<img/ans3.png, id=221, 820.06375pt x 827.09pt>
+[15]
+<img/ans3.png, id=503, 820.06375pt x 827.09pt>
 File: img/ans3.png Graphic file (type png)
 <use img/ans3.png>
 Package pdftex.def Info: img/ans3.png  used on input line 60.
@@ -1588,7 +1734,7 @@ Package pdftex.def Info: img/ans3.png  used on input line 60.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[14 <./img/zakrep3.png>]
+[16 <./img/zakrep3.png>]
 Overfull \hbox (17.09727pt too wide) in paragraph at lines 71--73
 []$\T2A/cmtt/m/n/14.4 http : / / msdn . microsoft . com / ru-[]ru / library / ms187752(v = SQL . 110 ) .aspx$[]\T2A/cmr/m/n/14.4 . Для
  []
@@ -1603,18 +1749,18 @@ Overfull \hbox (17.07297pt too wide) in paragraph at lines 71--73
 \T2A/cmr/m/n/14.4 ен-ные функ-ции (Transact-SQL)>> по ад-ре-су []$\T2A/cmtt/m/n/14.4 http : / / msdn . microsoft . com / ru-[]ru /
  []
 
-[15 <./img/ans3.png>] [16]
+[17 <./img/ans3.png>] [18]
 Overfull \hbox (19.41905pt too wide) in paragraph at lines 93--94
 \T2A/cmr/m/n/14.4 иден-ти-фи-ка-то-ры GUID с по-мо-щью функ-ции T-SQL NEWSEQUENTIALID. 
  []
 
-<img/advice1.png, id=246, 893.3375pt x 159.59625pt>
+<img/advice1.png, id=529, 893.3375pt x 159.59625pt>
 File: img/advice1.png Graphic file (type png)
 <use img/advice1.png>
 Package pdftex.def Info: img/advice1.png  used on input line 99.
 (pdftex.def)             Requested size: 435.32422pt x 77.77179pt.
-[17 <./img/advice1.png>]
-<img/advice2.png, id=256, 713.66624pt x 390.45876pt>
+[19 <./img/advice1.png>]
+<img/advice2.png, id=540, 713.66624pt x 390.45876pt>
 File: img/advice2.png Graphic file (type png)
 <use img/advice2.png>
 Package pdftex.def Info: img/advice2.png  used on input line 146.
@@ -1623,7 +1769,7 @@ Package pdftex.def Info: img/advice2.png  used on input line 146.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/control7.png, id=257, 726.715pt x 598.235pt>
+<img/control7.png, id=541, 726.715pt x 598.235pt>
 File: img/control7.png Graphic file (type png)
 <use img/control7.png>
 Package pdftex.def Info: img/control7.png  used on input line 153.
@@ -1631,8 +1777,8 @@ Package pdftex.def Info: img/control7.png  used on input line 153.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[18]
-<img/prac1.png, id=280, 780.9175pt x 709.65125pt>
+[20]
+<img/prac1.png, id=564, 780.9175pt x 709.65125pt>
 File: img/prac1.png Graphic file (type png)
 <use img/prac1.png>
 Package pdftex.def Info: img/prac1.png  used on input line 163.
@@ -1641,21 +1787,21 @@ Package pdftex.def Info: img/prac1.png  used on input line 163.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[19 <./img/advice2.png> <./img/control7.png>] [20 <./img/prac1.png>]
-<img/prac2.png, id=296, 784.9325pt x 621.32124pt>
+[21 <./img/advice2.png> <./img/control7.png>] [22 <./img/prac1.png>]
+<img/prac2.png, id=579, 784.9325pt x 621.32124pt>
 File: img/prac2.png Graphic file (type png)
 <use img/prac2.png>
 Package pdftex.def Info: img/prac2.png  used on input line 171.
 (pdftex.def)             Requested size: 435.32422pt x 344.59088pt.
- [21
+ [23
 
  <./img/prac2.png>]
-<img/zakrep4.png, id=303, 776.9025pt x 667.49374pt>
+<img/zakrep4.png, id=586, 776.9025pt x 667.49374pt>
 File: img/zakrep4.png Graphic file (type png)
 <use img/zakrep4.png>
 Package pdftex.def Info: img/zakrep4.png  used on input line 196.
 (pdftex.def)             Requested size: 435.32422pt x 374.02821pt.
-<img/ans4.png, id=304, 765.86125pt x 945.5325pt>
+<img/ans4.png, id=587, 765.86125pt x 945.5325pt>
 File: img/ans4.png Graphic file (type png)
 <use img/ans4.png>
 Package pdftex.def Info: img/ans4.png  used on input line 205.
@@ -1664,8 +1810,8 @@ Package pdftex.def Info: img/ans4.png  used on input line 205.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[22 <./img/zakrep4.png>]
-<img/ex2.png, id=311, 782.925pt x 1032.85875pt>
+[24 <./img/zakrep4.png>]
+<img/ex2.png, id=594, 782.925pt x 1032.85875pt>
 File: img/ex2.png Graphic file (type png)
 <use img/ex2.png>
 Package pdftex.def Info: img/ex2.png  used on input line 215.
@@ -1674,53 +1820,53 @@ Package pdftex.def Info: img/ex2.png  used on input line 215.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[23 <./img/ans4.png>] [24 <./img/ex2.png>]
-<img/eans2.png, id=325, 763.85374pt x 774.895pt>
+[25 <./img/ans4.png>] [26 <./img/ex2.png>]
+<img/eans2.png, id=608, 763.85374pt x 774.895pt>
 File: img/eans2.png Graphic file (type png)
 <use img/eans2.png>
 Package pdftex.def Info: img/eans2.png  used on input line 224.
 (pdftex.def)             Requested size: 435.32422pt x 441.61197pt.
-) [25
+) [27
 
  <./img/eans2.png>]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
-[26
+[28
 
 
 
 
 ]
-<img/advice3.png, id=346, 892.33376pt x 107.40125pt>
+<img/advice3.png, id=628, 892.33376pt x 107.40125pt>
 File: img/advice3.png Graphic file (type png)
 <use img/advice3.png>
 Package pdftex.def Info: img/advice3.png  used on input line 35.
 (pdftex.def)             Requested size: 483.69687pt x 58.21867pt.
-<img/like.png, id=347, 877.2775pt x 316.18124pt>
+<img/like.png, id=629, 877.2775pt x 316.18124pt>
 File: img/like.png Graphic file (type png)
 <use img/like.png>
 Package pdftex.def Info: img/like.png  used on input line 51.
 (pdftex.def)             Requested size: 483.69687pt x 174.33443pt.
- [27 <./img/advice3.png> <./img/like.png>]
-<img/advice4.png, id=359, 910.40125pt x 297.11pt>
+ [29 <./img/advice3.png> <./img/like.png>]
+<img/advice4.png, id=641, 910.40125pt x 297.11pt>
 File: img/advice4.png Graphic file (type png)
 <use img/advice4.png>
 Package pdftex.def Info: img/advice4.png  used on input line 59.
 (pdftex.def)             Requested size: 435.32422pt x 142.07169pt.
-<img/advice5.png, id=360, 893.3375pt x 173.64874pt>
+<img/advice5.png, id=642, 893.3375pt x 173.64874pt>
 File: img/advice5.png Graphic file (type png)
 <use img/advice5.png>
 Package pdftex.def Info: img/advice5.png  used on input line 79.
 (pdftex.def)             Requested size: 483.69687pt x 94.02328pt.
- [28 <./img/advice4.png> <./img/advice5.png>]
-<img/control8.png, id=377, 867.24pt x 293.095pt>
+ [30 <./img/advice4.png> <./img/advice5.png>]
+<img/control8.png, id=660, 867.24pt x 293.095pt>
 File: img/control8.png Graphic file (type png)
 <use img/control8.png>
 Package pdftex.def Info: img/control8.png  used on input line 103.
 (pdftex.def)             Requested size: 435.32422pt x 147.12405pt.
-<img/zakrep5.png, id=378, 980.66376pt x 1063.975pt>
+<img/zakrep5.png, id=661, 980.66376pt x 1063.975pt>
 File: img/zakrep5.png Graphic file (type png)
 <use img/zakrep5.png>
 Package pdftex.def Info: img/zakrep5.png  used on input line 123.
@@ -1729,8 +1875,8 @@ Package pdftex.def Info: img/zakrep5.png  used on input line 123.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[29 <./img/control8.png>]
-<img/ans5.png, id=389, 783.92876pt x 1011.78pt>
+[31 <./img/control8.png>]
+<img/ans5.png, id=673, 783.92876pt x 1011.78pt>
 File: img/ans5.png Graphic file (type png)
 <use img/ans5.png>
 Package pdftex.def Info: img/ans5.png  used on input line 133.
@@ -1739,8 +1885,8 @@ Package pdftex.def Info: img/ans5.png  used on input line 133.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[30 <./img/zakrep5.png>] [31 <./img/ans5.png>]
-<img/control9.png, id=403, 882.29625pt x 494.84875pt>
+[32 <./img/zakrep5.png>] [33 <./img/ans5.png>]
+<img/control9.png, id=686, 882.29625pt x 494.84875pt>
 File: img/control9.png Graphic file (type png)
 <use img/control9.png>
 Package pdftex.def Info: img/control9.png  used on input line 146.
@@ -1755,10 +1901,10 @@ Overfull \hbox (1.03041pt too wide) in paragraph at lines 156--163
 \T2A/cmr/m/n/14.4 BY. для ма-ни-пу-ли-ро-ва-ния дан-ны-ми да-ты и вре-ме-ни, сим-воль-ны-ми стро-
  []
 
-[32
+[34
 
  <./img/control9.png>]
-<img/zakrep6.png, id=410, 966.61125pt x 951.555pt>
+<img/zakrep6.png, id=693, 966.61125pt x 951.555pt>
 File: img/zakrep6.png Graphic file (type png)
 <use img/zakrep6.png>
 Package pdftex.def Info: img/zakrep6.png  used on input line 181.
@@ -1767,32 +1913,32 @@ Package pdftex.def Info: img/zakrep6.png  used on input line 181.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[33] [34 <./img/zakrep6.png>]
-<img/ans6.png, id=421, 775.89874pt x 843.15pt>
+[35] [36 <./img/zakrep6.png>]
+<img/ans6.png, id=704, 775.89874pt x 843.15pt>
 File: img/ans6.png Graphic file (type png)
 <use img/ans6.png>
 Package pdftex.def Info: img/ans6.png  used on input line 191.
 (pdftex.def)             Requested size: 435.32422pt x 473.06136pt.
- [35
+ [37
 
  <./img/ans6.png>]
-<img/advice6.png, id=428, 903.375pt x 147.55125pt>
+<img/advice6.png, id=712, 903.375pt x 147.55125pt>
 File: img/advice6.png Graphic file (type png)
 <use img/advice6.png>
 Package pdftex.def Info: img/advice6.png  used on input line 212.
 (pdftex.def)             Requested size: 435.32422pt x 71.10521pt.
- [36 <./img/advice6.png>]
+ [38 <./img/advice6.png>]
 Overfull \hbox (20.5405pt too wide) in paragraph at lines 257--257
  |[]\T2A/cmr/bx/n/17.28 Фильтрация дан-ных с по-мо-щью OFFSET...FETCH| 
  []
 
-[37]
-<img/control10.png, id=463, 905.3825pt x 286.06876pt>
+[39]
+<img/control10.png, id=745, 905.3825pt x 286.06876pt>
 File: img/control10.png Graphic file (type png)
 <use img/control10.png>
 Package pdftex.def Info: img/control10.png  used on input line 293.
 (pdftex.def)             Requested size: 435.32422pt x 137.54715pt.
-<img/ex3.png, id=464, 984.67876pt x 1023.825pt>
+<img/ex3.png, id=746, 984.67876pt x 1023.825pt>
 File: img/ex3.png Graphic file (type png)
 <use img/ex3.png>
 Package pdftex.def Info: img/ex3.png  used on input line 303.
@@ -1801,7 +1947,7 @@ Package pdftex.def Info: img/ex3.png  used on input line 303.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/ex4.png, id=465, 748.7975pt x 990.70125pt>
+<img/ex4.png, id=747, 748.7975pt x 990.70125pt>
 File: img/ex4.png Graphic file (type png)
 <use img/ex4.png>
 Package pdftex.def Info: img/ex4.png  used on input line 310.
@@ -1809,7 +1955,7 @@ Package pdftex.def Info: img/ex4.png  used on input line 310.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/ex5.png, id=466, 721.69624pt x 970.62625pt>
+<img/ex5.png, id=748, 721.69624pt x 970.62625pt>
 File: img/ex5.png Graphic file (type png)
 <use img/ex5.png>
 Package pdftex.def Info: img/ex5.png  used on input line 317.
@@ -1817,12 +1963,12 @@ Package pdftex.def Info: img/ex5.png  used on input line 317.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[38 <./img/control10.png>] [39 <./img/ex3.png>] [40 <./img/ex4.png>] [41 <./img/ex5.png>]
+[40 <./img/control10.png>] [41 <./img/ex3.png>] [42 <./img/ex4.png>] [43 <./img/ex5.png>]
 Overfull \hbox (1.97876pt too wide) in paragraph at lines 331--332
 []\T2A/cmr/m/n/14.4 Параметр TOP ^^V соб-ствен-ная воз-мож-ность язы-ка T-SQL, ко-то-рую мож-
  []
 
-<img/zakrep7.png, id=497, 729.72626pt x 911.405pt>
+<img/zakrep7.png, id=780, 729.72626pt x 911.405pt>
 File: img/zakrep7.png Graphic file (type png)
 <use img/zakrep7.png>
 Package pdftex.def Info: img/zakrep7.png  used on input line 345.
@@ -1830,50 +1976,671 @@ Package pdftex.def Info: img/zakrep7.png  used on input line 345.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[42
+[44
 
-] [43 <./img/zakrep7.png>]
-<img/ans7.png, id=509, 759.83875pt x 1180.41pt>
+] [45 <./img/zakrep7.png>]
+<img/ans7.png, id=792, 759.83875pt x 1180.41pt>
 File: img/ans7.png Graphic file (type png)
 <use img/ans7.png>
 Package pdftex.def Info: img/ans7.png  used on input line 355.
 (pdftex.def)             Requested size: 386.95897pt x 601.1546pt.
- [44
+ [46
 
  <./img/ans7.png>]
-<img/ex6.png, id=516, 773.89125pt x 974.64125pt>
+<img/ex6.png, id=799, 773.89125pt x 974.64125pt>
 File: img/ex6.png Graphic file (type png)
 <use img/ex6.png>
 Package pdftex.def Info: img/ex6.png  used on input line 366.
 (pdftex.def)             Requested size: 435.32422pt x 548.24922pt.
- [45 <./img/ex6.png>]
-<img/eans3.png, id=523, 677.53125pt x 1166.3575pt>
+ [47 <./img/ex6.png>]
+<img/eans3.png, id=806, 677.53125pt x 1166.3575pt>
 File: img/eans3.png Graphic file (type png)
 <use img/eans3.png>
 Package pdftex.def Info: img/eans3.png  used on input line 375.
 (pdftex.def)             Requested size: 338.58632pt x 582.89256pt.
-) [46
+) [48
 
- <./img/eans3.png>] (./report.aux (./00-title.aux) (./01-contents.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux))
+ <./img/eans3.png>]
+\openout2 = `chapter4.aux'.
+
+ (./chapter4.tex
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
+<img/cross.png, id=813, 714.67pt x 612.2875pt>
+File: img/cross.png Graphic file (type png)
+<use img/cross.png>
+Package pdftex.def Info: img/cross.png  used on input line 20.
+(pdftex.def)             Requested size: 386.95897pt x 331.52724pt.
+[49
+
+
+
+
+ <./img/cross.png>]
+<img/inner.png, id=828, 574.145pt x 606.265pt>
+File: img/inner.png Graphic file (type png)
+<use img/inner.png>
+Package pdftex.def Info: img/inner.png  used on input line 41.
+(pdftex.def)             Requested size: 386.95897pt x 408.61916pt.
+<img/advice7.png, id=829, 896.34875pt x 280.04625pt>
+File: img/advice7.png Graphic file (type png)
+<use img/advice7.png>
+Package pdftex.def Info: img/advice7.png  used on input line 50.
+(pdftex.def)             Requested size: 483.69687pt x 151.12015pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[50 <./img/inner.png>] [51 <./img/advice7.png>]
+<img/left.png, id=856, 592.2125pt x 659.46375pt>
+File: img/left.png Graphic file (type png)
+<use img/left.png>
+Package pdftex.def Info: img/left.png  used on input line 77.
+(pdftex.def)             Requested size: 241.84843pt x 269.31525pt.
+<img/right.png, id=857, 500.87125pt x 656.4525pt>
+File: img/right.png Graphic file (type png)
+<use img/right.png>
+Package pdftex.def Info: img/right.png  used on input line 85.
+(pdftex.def)             Requested size: 241.84843pt x 316.97675pt.
+<img/full.png, id=858, 492.84125pt x 694.595pt>
+File: img/full.png Graphic file (type png)
+<use img/full.png>
+Package pdftex.def Info: img/full.png  used on input line 93.
+(pdftex.def)             Requested size: 241.84843pt x 340.85266pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<img/control11.png, id=859, 914.41624pt x 274.02374pt>
+File: img/control11.png Graphic file (type png)
+<use img/control11.png>
+Package pdftex.def Info: img/control11.png  used on input line 102.
+(pdftex.def)             Requested size: 435.32422pt x 130.45113pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[52 <./img/left.png> <./img/right.png>] [53 <./img/full.png> <./img/control11.png>]
+<img/zakrep8.png, id=876, 620.3175pt x 671.50874pt>
+File: img/zakrep8.png Graphic file (type png)
+<use img/zakrep8.png>
+Package pdftex.def Info: img/zakrep8.png  used on input line 122.
+(pdftex.def)             Requested size: 338.58632pt x 366.52344pt.
+ [54 <./img/zakrep8.png>]
+<img/ans8.png, id=883, 590.205pt x 624.3325pt>
+File: img/ans8.png Graphic file (type png)
+<use img/ans8.png>
+Package pdftex.def Info: img/ans8.png  used on input line 132.
+(pdftex.def)             Requested size: 435.32422pt x 460.50316pt.
+ [55 <./img/ans8.png>]
+Overfull \hbox (22.52837pt too wide) in paragraph at lines 139--139
+ |[]\T2A/cmr/bx/n/20.74 Использование под-за-про-сов, таб-лич-ных вы-
+ []
+
+[56
+
+]
+<img/advice8.png, id=914, 989.6975pt x 219.82124pt>
+File: img/advice8.png Graphic file (type png)
+<use img/advice8.png>
+Package pdftex.def Info: img/advice8.png  used on input line 205.
+(pdftex.def)             Requested size: 435.32422pt x 96.6881pt.
+ [57 <./img/advice8.png>]
+<img/res1.png, id=930, 768.8725pt x 431.6125pt>
+File: img/res1.png Graphic file (type png)
+<use img/res1.png>
+Package pdftex.def Info: img/res1.png  used on input line 224.
+(pdftex.def)             Requested size: 290.22107pt x 162.92119pt.
+ [58 <./img/res1.png>] [59] [60] [61] [62]
+<img/crossapply.png, id=1055, 642.4pt x 688.5725pt>
+File: img/crossapply.png Graphic file (type png)
+<use img/crossapply.png>
+Package pdftex.def Info: img/crossapply.png  used on input line 403.
+(pdftex.def)             Requested size: 435.32422pt x 466.62607pt.
+ [63 <./img/crossapply.png>]
+<img/outerapply.png, id=1062, 564.1075pt x 606.265pt>
+File: img/outerapply.png Graphic file (type png)
+<use img/outerapply.png>
+Package pdftex.def Info: img/outerapply.png  used on input line 418.
+(pdftex.def)             Requested size: 435.32422pt x 467.86159pt.
+<img/control12.png, id=1063, 820.06375pt x 310.15875pt>
+File: img/control12.png Graphic file (type png)
+<use img/control12.png>
+Package pdftex.def Info: img/control12.png  used on input line 426.
+(pdftex.def)             Requested size: 435.32422pt x 164.64838pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<img/ex7.png, id=1064, 635.37375pt x 632.3625pt>
+File: img/ex7.png Graphic file (type png)
+<use img/ex7.png>
+Package pdftex.def Info: img/ex7.png  used on input line 435.
+(pdftex.def)             Requested size: 435.32422pt x 433.27185pt.
+[64 <./img/outerapply.png>]
+<img/ex8.png, id=1071, 481.8pt x 631.35875pt>
+File: img/ex8.png Graphic file (type png)
+<use img/ex8.png>
+Package pdftex.def Info: img/ex8.png  used on input line 443.
+(pdftex.def)             Requested size: 435.32422pt x 570.47192pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[65 <./img/control12.png> <./img/ex7.png>] [66 <./img/ex8.png>]
+<img/ex9.png, id=1086, 517.935pt x 648.4225pt>
+File: img/ex9.png Graphic file (type png)
+<use img/ex9.png>
+Package pdftex.def Info: img/ex9.png  used on input line 452.
+(pdftex.def)             Requested size: 338.58632pt x 423.90358pt.
+<img/ex10.png, id=1087, 484.81125pt x 207.77625pt>
+File: img/ex10.png Graphic file (type png)
+<use img/ex10.png>
+Package pdftex.def Info: img/ex10.png  used on input line 459.
+(pdftex.def)             Requested size: 338.58632pt x 145.11581pt.
+ [67
+
+ <./img/ex9.png> <./img/ex10.png>]
+<img/zakrep9.png, id=1097, 490.83376pt x 504.88625pt>
+File: img/zakrep9.png Graphic file (type png)
+<use img/zakrep9.png>
+Package pdftex.def Info: img/zakrep9.png  used on input line 490.
+(pdftex.def)             Requested size: 435.32422pt x 447.79884pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[68] [69 <./img/zakrep9.png>]
+<img/ans9.png, id=1108, 601.24625pt x 655.44875pt>
+File: img/ans9.png Graphic file (type png)
+<use img/ans9.png>
+Package pdftex.def Info: img/ans9.png  used on input line 500.
+(pdftex.def)             Requested size: 435.32422pt x 474.58308pt.
+ [70
+
+ <./img/ans9.png>] [71]
+<img/examp1.png, id=1128, 473.77pt x 222.8325pt>
+File: img/examp1.png Graphic file (type png)
+<use img/examp1.png>
+Package pdftex.def Info: img/examp1.png  used on input line 552.
+(pdftex.def)             Requested size: 435.32422pt x 204.75677pt.
+<img/unionall.png, id=1129, 812.03375pt x 156.585pt>
+File: img/unionall.png Graphic file (type png)
+<use img/unionall.png>
+Package pdftex.def Info: img/unionall.png  used on input line 561.
+(pdftex.def)             Requested size: 435.32422pt x 83.94298pt.
+<img/warn.png, id=1130, 989.6975pt x 225.84375pt>
+File: img/warn.png Graphic file (type png)
+<use img/warn.png>
+Package pdftex.def Info: img/warn.png  used on input line 569.
+(pdftex.def)             Requested size: 435.32422pt x 99.33708pt.
+ [72 <./img/examp1.png> <./img/unionall.png> <./img/warn.png>]
+<img/intersect.png, id=1143, 367.3725pt x 203.76125pt>
+File: img/intersect.png Graphic file (type png)
+<use img/intersect.png>
+Package pdftex.def Info: img/intersect.png  used on input line 582.
+(pdftex.def)             Requested size: 241.84843pt x 134.14394pt.
+<img/except.png, id=1144, 284.06125pt x 143.53625pt>
+File: img/except.png Graphic file (type png)
+<use img/except.png>
+Package pdftex.def Info: img/except.png  used on input line 593.
+(pdftex.def)             Requested size: 241.84843pt x 122.21007pt.
+ [73 <./img/intersect.png> <./img/except.png>]
+<img/control13.png, id=1154, 954.56625pt x 497.86pt>
+File: img/control13.png Graphic file (type png)
+<use img/control13.png>
+Package pdftex.def Info: img/control13.png  used on input line 612.
+(pdftex.def)             Requested size: 435.32422pt x 227.04323pt.
+<img/zakrep10.png, id=1155, 735.74875pt x 646.415pt>
+File: img/zakrep10.png Graphic file (type png)
+<use img/zakrep10.png>
+Package pdftex.def Info: img/zakrep10.png  used on input line 634.
+(pdftex.def)             Requested size: 435.32422pt x 382.4764pt.
+ [74 <./img/control13.png>] [75 <./img/zakrep10.png>]
+<img/ans10.png, id=1175, 665.48625pt x 645.41125pt>
+File: img/ans10.png Graphic file (type png)
+<use img/ans10.png>
+Package pdftex.def Info: img/ans10.png  used on input line 644.
+(pdftex.def)             Requested size: 386.95897pt x 375.29407pt.
+ [76
+
+ <./img/ans10.png>]
+<img/ex11.png, id=1182, 693.59125pt x 638.385pt>
+File: img/ex11.png Graphic file (type png)
+<use img/ex11.png>
+Package pdftex.def Info: img/ex11.png  used on input line 656.
+(pdftex.def)             Requested size: 435.32422pt x 400.68456pt.
+<img/ex12.png, id=1183, 651.43375pt x 298.11375pt>
+File: img/ex12.png Graphic file (type png)
+<use img/ex12.png>
+Package pdftex.def Info: img/ex12.png  used on input line 663.
+(pdftex.def)             Requested size: 435.32422pt x 199.22115pt.
+<img/eans4.png, id=1184, 615.29875pt x 611.28375pt>
+File: img/eans4.png Graphic file (type png)
+<use img/eans4.png>
+Package pdftex.def Info: img/eans4.png  used on input line 672.
+(pdftex.def)             Requested size: 435.32422pt x 432.49413pt.
+ [77 <./img/ex11.png> <./img/ex12.png>]) [78 <./img/eans4.png>]
+\openout2 = `chapter5.aux'.
+
+ (./chapter5.tex
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
+
+Overfull \hbox (8.76575pt too wide) in paragraph at lines 2--2
+ |[]\T2A/cmr/bx/n/20.74 Написание за-про-сов для груп-пи-ров-ки дан-
+ []
+
+
+Overfull \hbox (57.64207pt too wide) in paragraph at lines 16--20
+[]\T2A/cmr/m/n/14.4 Обратите вни-ма-ние на раз-ни-цу меж-ду ре-зуль-та-та-ми функ-ций COUNT(shippeddate)
+ []
+
+[79
+
+
+
+
+]
+<img/res11.png, id=1217, 459.7175pt x 464.73625pt>
+File: img/res11.png Graphic file (type png)
+<use img/res11.png>
+Package pdftex.def Info: img/res11.png  used on input line 60.
+(pdftex.def)             Requested size: 290.22107pt x 293.40233pt.
+ [80 <./img/res11.png>] [81]
+<img/res12.png, id=1249, 616.3025pt x 589.20125pt>
+File: img/res12.png Graphic file (type png)
+<use img/res12.png>
+Package pdftex.def Info: img/res12.png  used on input line 115.
+(pdftex.def)             Requested size: 386.95897pt x 369.94907pt.
+ [82 <./img/res12.png>]
+<img/res13.png, id=1262, 873.2625pt x 426.59375pt>
+File: img/res13.png Graphic file (type png)
+<use img/res13.png>
+Package pdftex.def Info: img/res13.png  used on input line 145.
+(pdftex.def)             Requested size: 386.95897pt x 189.02971pt.
+ [83 <./img/res13.png>]
+<img/res14.png, id=1277, 986.68625pt x 496.85625pt>
+File: img/res14.png Graphic file (type png)
+<use img/res14.png>
+Package pdftex.def Info: img/res14.png  used on input line 167.
+(pdftex.def)             Requested size: 386.95897pt x 194.85728pt.
+<img/advice9.png, id=1278, 1077.02374pt x 231.86626pt>
+File: img/advice9.png Graphic file (type png)
+<use img/advice9.png>
+Package pdftex.def Info: img/advice9.png  used on input line 175.
+(pdftex.def)             Requested size: 386.95897pt x 83.3055pt.
+<img/control14.png, id=1279, 1015.795pt x 316.18124pt>
+File: img/control14.png Graphic file (type png)
+<use img/control14.png>
+Package pdftex.def Info: img/control14.png  used on input line 183.
+(pdftex.def)             Requested size: 386.95897pt x 120.44441pt.
+ [84 <./img/res14.png> <./img/advice9.png> <./img/control14.png>]
+<img/zakrep11.png, id=1297, 542.025pt x 681.54625pt>
+File: img/zakrep11.png Graphic file (type png)
+<use img/zakrep11.png>
+Package pdftex.def Info: img/zakrep11.png  used on input line 205.
+(pdftex.def)             Requested size: 435.32422pt x 547.40085pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[85]
+<img/ans11.png, id=1303, 496.85625pt x 690.58pt>
+File: img/ans11.png Graphic file (type png)
+<use img/ans11.png>
+Package pdftex.def Info: img/ans11.png  used on input line 215.
+(pdftex.def)             Requested size: 435.32422pt x 605.0674pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[86 <./img/zakrep11.png>] [87 <./img/ans11.png>] [88
+
+]
+<img/control15.png, id=1342, 881.2925pt x 276.03125pt>
+File: img/control15.png Graphic file (type png)
+<use img/control15.png>
+Package pdftex.def Info: img/control15.png  used on input line 297.
+(pdftex.def)             Requested size: 435.32422pt x 136.34737pt.
+ [89 <./img/control15.png>]
+<img/zakrep12.png, id=1357, 886.31125pt x 670.505pt>
+File: img/zakrep12.png Graphic file (type png)
+<use img/zakrep12.png>
+Package pdftex.def Info: img/zakrep12.png  used on input line 320.
+(pdftex.def)             Requested size: 435.32422pt x 329.33812pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[90] [91 <./img/zakrep12.png>]
+<img/ans12.png, id=1369, 597.23125pt x 677.53125pt>
+File: img/ans12.png Graphic file (type png)
+<use img/ans12.png>
+Package pdftex.def Info: img/ans12.png  used on input line 330.
+(pdftex.def)             Requested size: 435.32422pt x 493.85968pt.
+ [92
+
+ <./img/ans12.png>]
+Overfull \hbox (3.50555pt too wide) in paragraph at lines 352--355
+[]\T2A/cmr/m/n/14.4 Оконные аг-ре-гат-ные функ-ции под-дер-жи-ва-ют еще од-ну воз-мож-ность филь-
+ []
+
+
+Overfull \hbox (1.81163pt too wide) in paragraph at lines 360--361
+[]\T2A/cmr/m/n/14.4 UNBOUNDED PRECEDING или FOLLOWING, озна-ча-ю-щие на-ча-ло или
+ []
+
+[93]
+Overfull \hbox (2.72266pt too wide) in paragraph at lines 393--394
+[]\T2A/cmr/m/n/14.4 Помните, что пред-ло-же-ние ROWS опре-де-ля-ет огра-ни-чи-те-ли ^^V чис-ло строк
+ []
+
+<img/warn2.png, id=1386, 814.04124pt x 185.69376pt>
+File: img/warn2.png Graphic file (type png)
+<use img/warn2.png>
+Package pdftex.def Info: img/warn2.png  used on input line 398.
+(pdftex.def)             Requested size: 435.32422pt x 99.3041pt.
+
+Overfull \hbox (43.31915pt too wide) in paragraph at lines 406--408
+[]\T2A/cmr/m/n/14.4 T-SQL под-дер-жи-ва-ет че-ты-ре ран-жи-ру-ю-щие окон-ные функ-ции: ROW_NUMBER,
+ []
+
+[94 <./img/warn2.png>]
+<img/res15.png, id=1411, 682.55pt x 326.21875pt>
+File: img/res15.png Graphic file (type png)
+<use img/res15.png>
+Package pdftex.def Info: img/res15.png  used on input line 425.
+(pdftex.def)             Requested size: 435.32422pt x 208.06248pt.
+<img/warn3.png, id=1412, 855.195pt x 211.79124pt>
+File: img/warn3.png Graphic file (type png)
+<use img/warn3.png>
+Package pdftex.def Info: img/warn3.png  used on input line 433.
+(pdftex.def)             Requested size: 435.32422pt x 107.8085pt.
+ [95 <./img/res15.png> <./img/warn3.png>]
+<img/advice10.png, id=1422, 812.03375pt x 204.765pt>
+File: img/advice10.png Graphic file (type png)
+<use img/advice10.png>
+Package pdftex.def Info: img/advice10.png  used on input line 453.
+(pdftex.def)             Requested size: 435.32422pt x 109.77158pt.
+<img/res10.png, id=1423, 688.5725pt x 342.27875pt>
+File: img/res10.png Graphic file (type png)
+<use img/res10.png>
+Package pdftex.def Info: img/res10.png  used on input line 484.
+(pdftex.def)             Requested size: 435.32422pt x 216.39403pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[96 <./img/advice10.png>]
+<img/warn4.png, id=1437, 851.18pt x 356.33125pt>
+File: img/warn4.png Graphic file (type png)
+<use img/warn4.png>
+Package pdftex.def Info: img/warn4.png  used on input line 500.
+(pdftex.def)             Requested size: 435.32422pt x 182.24306pt.
+<img/control16.png, id=1438, 877.2775pt x 232.87pt>
+File: img/control16.png Graphic file (type png)
+<use img/control16.png>
+Package pdftex.def Info: img/control16.png  used on input line 508.
+(pdftex.def)             Requested size: 435.32422pt x 115.55704pt.
+ [97 <./img/res10.png> <./img/warn4.png> <./img/control16.png>]
+Overfull \hbox (13.98737pt too wide) in paragraph at lines 519--522
+[]\T2A/cmr/m/n/14.4 Язык T-SQL под-дер-жи-ва-ет ста-ти-сти-че-ские, ран-жи-ру-ю-щие окон-ные функ-
+ []
+
+<img/zakrep13.png, id=1450, 486.81876pt x 676.5275pt>
+File: img/zakrep13.png Graphic file (type png)
+<use img/zakrep13.png>
+Package pdftex.def Info: img/zakrep13.png  used on input line 532.
+(pdftex.def)             Requested size: 435.32422pt x 604.96703pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[98] [99 <./img/zakrep13.png>]
+<img/ans13.png, id=1461, 684.5575pt x 675.52374pt>
+File: img/ans13.png Graphic file (type png)
+<use img/ans13.png>
+Package pdftex.def Info: img/ans13.png  used on input line 542.
+(pdftex.def)             Requested size: 386.95897pt x 381.85716pt.
+ [100
+
+ <./img/ans13.png>]
+<img/ex13.png, id=1468, 555.07375pt x 703.62875pt>
+File: img/ex13.png Graphic file (type png)
+<use img/ex13.png>
+Package pdftex.def Info: img/ex13.png  used on input line 554.
+(pdftex.def)             Requested size: 435.32422pt x 551.83444pt.
+<img/ans14.png, id=1469, 501.875pt x 710.655pt>
+File: img/ans14.png Graphic file (type png)
+<use img/ans14.png>
+Package pdftex.def Info: img/ans14.png  used on input line 563.
+(pdftex.def)             Requested size: 435.32422pt x 616.45396pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [101 <./img/ex13.png>] [102 <./img/ans14.png>]
+\openout2 = `chapter6.aux'.
+
+ (./chapter6.tex
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
+
+Overfull \hbox (27.15355pt too wide) in paragraph at lines 1--1
+|[]\T2A/cmr/bx/n/24.88 Запросы с пол-но-тек-сто-вым по-ис-ком дан-
+ []
+
+
+Overfull \hbox (2.14719pt too wide) in paragraph at lines 2--2
+ |[]\T2A/cmr/bx/n/20.74 Создание пол-но-тек-сто-вых ка-та-ло-гов и ин-
+ []
+
+
+Overfull \hbox (1.74791pt too wide) in paragraph at lines 8--9
+[]\T2A/cmr/m/n/14.4 Прежде все-го, сле-ду-ет про-ве-рить, уста-нов-лен ли ком-по-нент FullText Search
+ []
+
+[103
+
+
+
+
+]
+Overfull \hbox (16.94092pt too wide) in paragraph at lines 30--33
+[]\T2A/cmr/m/n/14.4 Можно ис-поль-зо-вать объ-ект ди-на-ми-че-ско-го управ-ле-ния sys.dm_fts_parser
+ []
+
+<img/zakrep14.png, id=1489, 750.805pt x 493.845pt>
+File: img/zakrep14.png Graphic file (type png)
+<use img/zakrep14.png>
+Package pdftex.def Info: img/zakrep14.png  used on input line 39.
+(pdftex.def)             Requested size: 386.95897pt x 254.52516pt.
+<img/ans15.png, id=1490, 486.81876pt x 477.785pt>
+File: img/ans15.png Graphic file (type png)
+<use img/ans15.png>
+Package pdftex.def Info: img/ans15.png  used on input line 48.
+(pdftex.def)             Requested size: 435.32422pt x 427.24675pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[104 <./img/zakrep14.png>] [105 <./img/ans15.png>] [106
+
+]) [107]
+\openout2 = `chapter7.aux'.
+
+ (./chapter7.tex
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 7.
+<img/res16.png, id=1511, 604.2575pt x 525.965pt>
+File: img/res16.png Graphic file (type png)
+<use img/res16.png>
+Package pdftex.def Info: img/res16.png  used on input line 24.
+(pdftex.def)             Requested size: 386.95897pt x 336.81708pt.
+[108
+
+
+
+
+ <./img/res16.png>]
+<img/xml.png, id=1531, 554.07pt x 239.89626pt>
+File: img/xml.png Graphic file (type png)
+<use img/xml.png>
+Package pdftex.def Info: img/xml.png  used on input line 47.
+(pdftex.def)             Requested size: 386.95897pt x 167.54187pt.
+<img/xquery.png, id=1532, 907.39pt x 123.46124pt>
+File: img/xquery.png Graphic file (type png)
+<use img/xquery.png>
+Package pdftex.def Info: img/xquery.png  used on input line 70.
+(pdftex.def)             Requested size: 386.95897pt x 52.65022pt.
+ [109 <./img/xml.png>]) [110 <./img/xquery.png>]
+\openout2 = `chapter8.aux'.
+
+ (./chapter8.tex
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 8.
+
+Overfull \hbox (8.48013pt too wide) in paragraph at lines 1--1
+|[]\T2A/cmr/bx/n/24.88 Создание таб-лиц и обес-пе-че-ние це-лост-
+ []
+
+<img/advice11.png, id=1565, 1000.73875pt x 145.54375pt>
+File: img/advice11.png Graphic file (type png)
+<use img/advice11.png>
+Package pdftex.def Info: img/advice11.png  used on input line 14.
+(pdftex.def)             Requested size: 435.32422pt x 63.311pt.
+<img/advice12.png, id=1566, 942.52126pt x 149.55875pt>
+File: img/advice12.png Graphic file (type png)
+<use img/advice12.png>
+Package pdftex.def Info: img/advice12.png  used on input line 26.
+(pdftex.def)             Requested size: 435.32422pt x 69.07626pt.
+[111
+
+
+
+
+ <./img/advice11.png> <./img/advice12.png>]
+Overfull \hbox (31.87146pt too wide) in paragraph at lines 37--39
+[]\T2A/cmr/m/n/14.4 схема INFORMATION_SCHEMA ис-поль-зу-ет-ся пред-став-ле-ни-я-ми Information
+ []
+
+
+Overfull \hbox (6.532pt too wide) in paragraph at lines 37--39
+\T2A/cmr/m/n/14.4 Schema, ко-то-рая предо-став-ля-ет до-ступ к ме-та-дан-ным по стан-дар-ту ANSI; 
+ []
+
+<img/scheme.png, id=1575, 916.42375pt x 118.4425pt>
+File: img/scheme.png Graphic file (type png)
+<use img/scheme.png>
+Package pdftex.def Info: img/scheme.png  used on input line 45.
+(pdftex.def)             Requested size: 435.32422pt x 56.26257pt.
+<img/advice13.png, id=1576, 917.4275pt x 264.99pt>
+File: img/advice13.png Graphic file (type png)
+<use img/advice13.png>
+Package pdftex.def Info: img/advice13.png  used on input line 60.
+(pdftex.def)             Requested size: 435.32422pt x 125.73811pt.
+[112 <./img/scheme.png> <./img/advice13.png>]
+<img/advice14.png, id=1589, 917.4275pt x 181.67876pt>
+File: img/advice14.png Graphic file (type png)
+<use img/advice14.png>
+Package pdftex.def Info: img/advice14.png  used on input line 79.
+(pdftex.def)             Requested size: 435.32422pt x 86.20682pt.
+
+Overfull \hbox (56.4343pt too wide) in paragraph at lines 86--88
+\T2A/cmr/m/n/14.4 эф-фек-тив-но и с боль-шей точ-но-стью, чем ти-пы DATETIME и SMALLDATETIME. 
+ []
+
+
+Overfull \hbox (103.45721pt too wide) in paragraph at lines 88--90
+[]\T2A/cmr/m/n/14.4 Используйте ти-пы дан-ных VARCHAR(MAX), NVARCHAR(MAX) и VARBINARY(MAX)
+ []
+
+
+Overfull \hbox (54.33781pt too wide) in paragraph at lines 90--91
+[]\T2A/cmr/m/n/14.4 Используйте тип дан-ных ROWVERSION вме-сто уста-рев-ше-го ти-па TIMESTAMP. 
+ []
+
+[113 <./img/advice14.png>]
+Overfull \hbox (113.0171pt too wide) in paragraph at lines 128--130
+[]\T2A/cmr/m/n/14.4 Следующая ко-ман-да до-бав-ля-ет сжа-тие на уровне строк для таб-ли-цы Production.OrderDetails
+ []
+
+<img/control17.png, id=1605, 988.69376pt x 556.0775pt>
+File: img/control17.png Graphic file (type png)
+<use img/control17.png>
+Package pdftex.def Info: img/control17.png  used on input line 146.
+(pdftex.def)             Requested size: 435.32422pt x 244.83607pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[114]
+Overfull \hbox (7.68222pt too wide) in paragraph at lines 164--166
+[]\T2A/cmr/m/n/14.4 Следует со-блю-дать ак-ку-рат-ность при при-сво-е-нии имен таб-ли-цам и столб-
+ []
+
+
+Overfull \hbox (5.19809pt too wide) in paragraph at lines 167--169
+[]\T2A/cmr/m/n/14.4 Выбирайте под-хо-дя-щие свой-ства для столб-цов, та-кие как свой-ство столб-
+ []
+
+[115 <./img/control17.png>]
+<img/zakrep15.png, id=1627, 888.31876pt x 561.09625pt>
+File: img/zakrep15.png Graphic file (type png)
+<use img/zakrep15.png>
+Package pdftex.def Info: img/zakrep15.png  used on input line 178.
+(pdftex.def)             Requested size: 435.32422pt x 274.96526pt.
+ [116 <./img/zakrep15.png>]
+<img/ans16.png, id=1634, 696.6025pt x 663.47874pt>
+File: img/ans16.png Graphic file (type png)
+<use img/ans16.png>
+Package pdftex.def Info: img/ans16.png  used on input line 188.
+(pdftex.def)             Requested size: 435.32422pt x 414.62257pt.
+ [117 <./img/ans16.png>]
+<img/advice15.png, id=1641, 834.11626pt x 170.6375pt>
+File: img/advice15.png Graphic file (type png)
+<use img/advice15.png>
+Package pdftex.def Info: img/advice15.png  used on input line 204.
+(pdftex.def)             Requested size: 435.32422pt x 89.05746pt.
+ [118
+
+ <./img/advice15.png>]
+<img/zakrep16.png, id=1659, 777.90625pt x 637.38126pt>
+File: img/zakrep16.png Graphic file (type png)
+<use img/zakrep16.png>
+Package pdftex.def Info: img/zakrep16.png  used on input line 241.
+(pdftex.def)             Requested size: 435.32422pt x 356.69765pt.
+ [119 <./img/zakrep16.png>]
+<img/ans17.png, id=1666, 551.05875pt x 684.5575pt>
+File: img/ans17.png Graphic file (type png)
+<use img/ans17.png>
+Package pdftex.def Info: img/ans17.png  used on input line 251.
+(pdftex.def)             Requested size: 435.32422pt x 540.80493pt.
+ [120
+
+ <./img/ans17.png>]
+<img/ex14.png, id=1674, 485.815pt x 676.5275pt>
+File: img/ex14.png Graphic file (type png)
+<use img/ex14.png>
+Package pdftex.def Info: img/ex14.png  used on input line 261.
+(pdftex.def)             Requested size: 435.32422pt x 606.21611pt.
+<img/ans18.png, id=1675, 674.52pt x 706.64pt>
+File: img/ans18.png Graphic file (type png)
+<use img/ans18.png>
+Package pdftex.def Info: img/ans18.png  used on input line 270.
+(pdftex.def)             Requested size: 435.32422pt x 456.06505pt.
+ [121 <./img/ex14.png>]) [122 <./img/ans18.png>] (./report.aux (./00-title.aux) (./01-contents.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./chapter6.aux) (./chapter7.aux) (./chapter8.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 45EF1D641A144EBBDECBF12FD466CD5F;5049.
+(rerunfilecheck)             Checksum: 5796A8882EFFEF138C78102007C40E57;20027.
  ) 
 Here is how much of TeX's memory you used:
- 41982 strings out of 478268
- 955266 string characters out of 5846348
- 1572453 words of memory out of 5000000
- 59242 multiletter control sequences out of 15000+600000
+ 43346 strings out of 478268
+ 978055 string characters out of 5846348
+ 1667816 words of memory out of 5000000
+ 59954 multiletter control sequences out of 15000+600000
  481800 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 106i,6n,108p,1024b,1927s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 106i,6n,108p,1024b,1931s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on report.pdf (46 pages, 9243171 bytes).
+Output written on report.pdf (122 pages, 17429854 bytes).
 PDF statistics:
- 618 PDF objects out of 1000 (max. 8388607)
- 458 compressed objects within 5 object streams
- 190 named destinations out of 1000 (max. 500000)
- 389 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1891 PDF objects out of 2073 (max. 8388607)
+ 1502 compressed objects within 16 object streams
+ 738 named destinations out of 1000 (max. 500000)
+ 1176 words of extra memory for PDF output out of 10000 (max. 10000000)
 
